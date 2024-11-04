@@ -1,3 +1,3 @@
-# Image-story-app
+# eataly
 
-This is simple app which turns uploaded image into audio story. Just drop the image and wait for story generation
+translate italian to polish
